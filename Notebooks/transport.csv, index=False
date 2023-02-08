@@ -1,0 +1,162 @@
+,country,variable,year,unit,powercode,flags,value
+18,Austria,Inland Freight,2006,Tonnes-kilometres,Millions,Break,49901.0
+63,Sweden,Coastal Shipping,2011,Tonnes-kilometres,Millions,Break,7794.0
+67,Sweden,Coastal Shipping,2015,Tonnes-kilometres,Millions,Break,7220.91
+81,Denmark,Inland Freight,2007,Tonnes-kilometres,Millions,Break,18203.0
+91,Poland,Inland Freight,2000,Tonnes-kilometres,Millions,Break,150998.0
+95,Poland,Inland Freight,2004,Tonnes-kilometres,Millions,Break,188490.0
+105,Poland,Inland Freight,2014,Tonnes-kilometres,Millions,Break,334255.0
+282,Armenia,Inland Freight,2007,Tonnes-kilometres,Millions,Estimated value,3439.0
+283,Armenia,Inland Freight,2008,Tonnes-kilometres,Millions,Estimated value,3697.0
+284,Armenia,Inland Freight,2009,Tonnes-kilometres,Millions,Estimated value,2588.0
+285,Armenia,Inland Freight,2010,Tonnes-kilometres,Millions,Estimated value,3082.0
+286,Armenia,Inland Freight,2011,Tonnes-kilometres,Millions,Estimated value,3573.0
+287,Armenia,Inland Freight,2012,Tonnes-kilometres,Millions,Estimated value,4144.0
+288,Armenia,Inland Freight,2013,Tonnes-kilometres,Millions,Estimated value,4085.0
+454,Ukraine,Inland Freight,2009,Tonnes-kilometres,Millions,Break,276421.0
+459,Ukraine,Inland Freight,2014,Tonnes-kilometres,Millions,Break,278274.0
+486,Luxembourg,Rail Containers (TEU),2007,Number,Units,Break,29945.0
+489,Luxembourg,Rail Containers (TEU),2010,Number,Units,Break,21000.0
+500,Luxembourg,Rail Containers (TEU),2021,Number,Units,Break,176546.0
+538,Switzerland,Inland Freight,2015,Tonnes-kilometres,Millions,Break,29762.481584273
+544,New Zealand,Inland Freight,2000,Tonnes-kilometres,Millions,Estimated value,17216.0
+545,New Zealand,Inland Freight,2001,Tonnes-kilometres,Millions,Break,21690.22
+549,New Zealand,Inland Freight,2005,Tonnes-kilometres,Millions,Break,24617.17
+564,New Zealand,Inland Freight,2020,Tonnes-kilometres,Millions,Provisional value,31633.42
+628,Spain,Maritime Containers (TEU),2020,Number,Units,Provisional value,16666347.0
+629,Spain,Maritime Containers (TEU),2021,Number,Units,Provisional value,17638818.0
+635,France,Inland Freight,2005,Tonnes-kilometres,Millions,Break,261526.0
+636,France,Inland Freight,2006,Tonnes-kilometres,Millions,Break,270160.0
+644,France,Inland Freight,2014,Tonnes-kilometres,Millions,Break,209869.583415
+645,France,Inland Freight,2015,Tonnes-kilometres,Millions,Break,205592.680342
+665,Germany,Maritime Containers (TEU),2000,Number,Units,Break,7172675.0
+694,Slovak Republic,Inland Freight,2007,Tonnes-kilometres,Millions,Break,37701.0
+753,Albania,Maritime Containers (TEU),2002,Number,Units,Break,1024.0
+791,Hungary,Rail Containers (TEU),2018,Number,Units,Estimated value,707524.0
+849,Belgium,Inland Freight,2007,Tonnes-kilometres,Millions,Estimated value,60733.0
+850,Belgium,Inland Freight,2008,Tonnes-kilometres,Millions,Estimated value,57021.0
+852,Belgium,Inland Freight,2010,Tonnes-kilometres,Millions,Estimated value,50925.0
+853,Belgium,Inland Freight,2011,Tonnes-kilometres,Millions,Estimated value,50506.0
+888,Russian Federation,Inland Freight,2012,Tonnes-kilometres,Millions,Break,3739640.0
+892,Russian Federation,Inland Freight,2016,Tonnes-kilometres,Millions,Break,3960122.0
+970,Italy,Rail Containers (TEU),2009,Number,Units,Break,1368849.0
+1008,India,Inland Freight,2004,Tonnes-kilometres,Millions,Break,1054300.0
+1009,India,Inland Freight,2005,Tonnes-kilometres,Millions,Break,1170243.0
+1043,Portugal,Inland Freight,2000,Tonnes-kilometres,Millions,Break,29320.0
+1047,Portugal,Inland Freight,2004,Tonnes-kilometres,Millions,Break,43666.0
+1090,Moldova,Inland Freight,2004,Tonnes-kilometres,Millions,Break,5129.0
+1135,Russian Federation,Coastal Shipping,2007,Tonnes-kilometres,Millions,Break,11702.0
+1140,Russian Federation,Coastal Shipping,2012,Tonnes-kilometres,Millions,Break,12138.0
+1146,Russian Federation,Coastal Shipping,2018,Tonnes-kilometres,Millions,Break,28334.0
+1158,Sweden,Rail Containers (TEU),2009,Number,Units,Break,533876.0
+1167,Sweden,Rail Containers (TEU),2018,Number,Units,Break,438840.75724534
+1253,Germany,Inland Freight,2016,Tonnes-kilometres,Millions,Break,517743.0
+1257,Germany,Inland Freight,2020,Tonnes-kilometres,Millions,Provisional value,476040.0
+1281,Norway,Inland Freight,2000,Tonnes-kilometres,Millions,Break,18277.0
+1284,Norway,Inland Freight,2003,Tonnes-kilometres,Millions,Break,20235.0
+1303,Australia,Maritime Containers (TEU),2000,Number,Units,Estimated value,3382653.0
+1304,Australia,Maritime Containers (TEU),2001,Number,Units,Estimated value,3393553.0
+1305,Australia,Maritime Containers (TEU),2002,Number,Units,Estimated value,3811899.0
+1306,Australia,Maritime Containers (TEU),2003,Number,Units,Estimated value,4170565.0
+1307,Australia,Maritime Containers (TEU),2004,Number,Units,Estimated value,4704855.0
+1308,Australia,Maritime Containers (TEU),2005,Number,Units,Estimated value,4878907.0
+1309,Australia,Maritime Containers (TEU),2006,Number,Units,Estimated value,5180828.0
+1310,Australia,Maritime Containers (TEU),2007,Number,Units,Estimated value,5790332.0
+1311,Australia,Maritime Containers (TEU),2008,Number,Units,Estimated value,6201870.0
+1312,Australia,Maritime Containers (TEU),2009,Number,Units,Estimated value,5766041.0
+1313,Australia,Maritime Containers (TEU),2010,Number,Units,Estimated value,6507984.0
+1314,Australia,Maritime Containers (TEU),2011,Number,Units,Estimated value,6709602.0
+1315,Australia,Maritime Containers (TEU),2012,Number,Units,Estimated value,6936142.0
+1316,Australia,Maritime Containers (TEU),2013,Number,Units,Estimated value,6994361.0
+1317,Australia,Maritime Containers (TEU),2014,Number,Units,Estimated value,7519534.0
+1318,Australia,Maritime Containers (TEU),2015,Number,Units,Estimated value,7415789.0
+1319,Australia,Maritime Containers (TEU),2016,Number,Units,Estimated value,7529626.0
+1320,Australia,Maritime Containers (TEU),2017,Number,Units,Estimated value,8047764.0
+1410,Azerbaijan,Inland Freight,2003,Tonnes-kilometres,Millions,Break,22388.6
+1413,Azerbaijan,Inland Freight,2006,Tonnes-kilometres,Millions,Break,43348.9
+1414,Azerbaijan,Inland Freight,2007,Tonnes-kilometres,Millions,Break,78185.4
+1415,Azerbaijan,Inland Freight,2008,Tonnes-kilometres,Millions,Break,88850.6
+1475,Greece,Rail Containers (TEU),2003,Number,Units,Break,41672.0
+1479,Greece,Rail Containers (TEU),2007,Number,Units,Break,107038.0
+1499,Bulgaria,Rail Containers (TEU),2006,Number,Units,Break,72390.0
+1583,Spain,Inland Freight,2002,Tonnes-kilometres,Millions,Break,204595.0
+1588,Spain,Inland Freight,2007,Tonnes-kilometres,Millions,Break,279017.0
+1608,Czech Republic,Rail Containers (TEU),2000,Number,Units,Break,169078.0
+1641,Albania,Inland Freight,2011,Tonnes-kilometres,Millions,Break,3855.0
+1665,Ireland,Rail Containers (TEU),2004,Number,Units,Break,71678.0
+1685,Latvia,Inland Freight,2002,Tonnes-kilometres,Millions,Break,26251.0
+1690,Latvia,Inland Freight,2007,Tonnes-kilometres,Millions,Break,34166.0
+1737,Japan,Inland Freight,2010,Tonnes-kilometres,Millions,Break,266573.0
+1770,Canada,Maritime Containers (TEU),2009,Number,Units,Break,4056300.0
+1791,China,Inland Freight,2008,Tonnes-kilometres,Millions,Break,7733020.0
+1854,Türkiye,Inland Freight,2007,Tonnes-kilometres,Millions,Break,204957.0
+1919,Denmark,Rail Containers (TEU),2007,Number,Units,Break,218047.0
+1955,Croatia,Maritime Containers (TEU),2004,Number,Units,Break,76105.0
+2046,Austria,Rail Containers (TEU),2013,Number,Units,Break,1237076.0
+2162,Hungary,Inland Freight,2001,Tonnes-kilometres,Millions,Break,32397.0
+2194,United Kingdom,Inland Freight,2011,Tonnes-kilometres,Millions,Break,181231.41717618
+2215,Spain,Coastal Shipping,2019,Tonnes-kilometres,Millions,Provisional value,50716.0
+2216,Spain,Coastal Shipping,2020,Tonnes-kilometres,Millions,Provisional value,41295.0
+2297,Luxembourg,Inland Freight,2000,Tonnes-kilometres,Millions,Estimated value,8615.0
+2298,Luxembourg,Inland Freight,2001,Tonnes-kilometres,Millions,Estimated value,9731.0
+2299,Luxembourg,Inland Freight,2002,Tonnes-kilometres,Millions,Estimated value,10364.0
+2300,Luxembourg,Inland Freight,2003,Tonnes-kilometres,Millions,Estimated value,10477.0
+2301,Luxembourg,Inland Freight,2004,Tonnes-kilometres,Millions,Estimated value,10877.0
+2302,Luxembourg,Inland Freight,2005,Tonnes-kilometres,Millions,Estimated value,9644.0
+2303,Luxembourg,Inland Freight,2006,Tonnes-kilometres,Millions,Estimated value,9696.0
+2304,Luxembourg,Inland Freight,2007,Tonnes-kilometres,Millions,Estimated value,9854.0
+2305,Luxembourg,Inland Freight,2008,Tonnes-kilometres,Millions,Estimated value,10212.0
+2318,North Macedonia,Inland Freight,2001,Tonnes-kilometres,Millions,Break,3593.0
+2322,North Macedonia,Inland Freight,2005,Tonnes-kilometres,Millions,Break,6255.0
+2328,North Macedonia,Inland Freight,2011,Tonnes-kilometres,Millions,Break,9510.0
+2330,North Macedonia,Inland Freight,2013,Tonnes-kilometres,Millions,Break,7887.0
+2331,North Macedonia,Inland Freight,2014,Tonnes-kilometres,Millions,Break,11039.0
+2414,Norway,Coastal Shipping,2009,Tonnes-kilometres,Millions,Break,22512.0
+2438,Australia,Inland Freight,2011,Tonnes-kilometres,Millions,Estimated value,453873.58954101
+2439,Australia,Inland Freight,2012,Tonnes-kilometres,Millions,Estimated value,490562.59777756
+2500,United States,Inland Freight,2012,Tonnes-kilometres,Millions,Break,6392694.6
+2502,United States,Inland Freight,2014,Tonnes-kilometres,Millions,Break,6813036.4
+2505,United States,Inland Freight,2017,Tonnes-kilometres,Millions,Estimated value,6659498.0
+2615,Croatia,Inland Freight,2001,Tonnes-kilometres,Millions,Break,10925.0
+2617,Croatia,Inland Freight,2003,Tonnes-kilometres,Millions,Break,13166.0
+2622,Croatia,Inland Freight,2008,Tonnes-kilometres,Millions,Break,16874.0
+2739,Italy,Inland Freight,2004,Tonnes-kilometres,Millions,Break,231055.94
+2751,Italy,Inland Freight,2016,Tonnes-kilometres,Millions,Break,145394.492035
+2756,Italy,Inland Freight,2021,Tonnes-kilometres,Millions,Provisional value,178546.0
+2785,Sweden,Inland Freight,2000,Tonnes-kilometres,Millions,Break,55640.0
+2787,Sweden,Inland Freight,2002,Tonnes-kilometres,Millions,Break,55817.0
+2794,Sweden,Inland Freight,2009,Tonnes-kilometres,Millions,Break,55430.093
+2797,Sweden,Inland Freight,2012,Tonnes-kilometres,Millions,Break,63054.0
+2801,Sweden,Inland Freight,2016,Tonnes-kilometres,Millions,Break,64107.0
+2803,Sweden,Inland Freight,2018,Tonnes-kilometres,Millions,Break,66311.306069132
+2843,Canada,Inland Freight,2011,Tonnes-kilometres,Millions,Estimated value,748349.0
+2844,Canada,Inland Freight,2012,Tonnes-kilometres,Millions,Estimated value,801092.0
+2845,Canada,Inland Freight,2013,Tonnes-kilometres,Millions,Estimated value,839653.0
+2846,Canada,Inland Freight,2014,Tonnes-kilometres,Millions,Break,875037.0
+2888,Bulgaria,Inland Freight,2000,Tonnes-kilometres,Millions,Break,12718.0
+2892,Bulgaria,Inland Freight,2004,Tonnes-kilometres,Millions,Break,18772.0
+2945,"Montenegro, Republic of",Inland Freight,2014,Tonnes-kilometres,Millions,Break,216.0
+3015,Estonia,Inland Freight,2001,Tonnes-kilometres,Millions,Break,13234.0
+3019,Estonia,Inland Freight,2005,Tonnes-kilometres,Millions,Break,16460.0
+3131,Germany,Rail Containers (TEU),2017,Number,Units,Break,5983721.0
+3132,Germany,Rail Containers (TEU),2018,Number,Units,Break,6678868.0
+3201,Greece,Inland Freight,2000,Tonnes-kilometres,Millions,Estimated value,14717.0
+3202,Greece,Inland Freight,2001,Tonnes-kilometres,Millions,Estimated value,14803.0
+3203,Greece,Inland Freight,2002,Tonnes-kilometres,Millions,Estimated value,15027.0
+3204,Greece,Inland Freight,2003,Tonnes-kilometres,Millions,Estimated value,15156.0
+3205,Greece,Inland Freight,2004,Tonnes-kilometres,Millions,Estimated value,16065.0
+3206,Greece,Inland Freight,2005,Tonnes-kilometres,Millions,Estimated value,16474.0
+3207,Greece,Inland Freight,2006,Tonnes-kilometres,Millions,Estimated value,17172.0
+3208,Greece,Inland Freight,2007,Tonnes-kilometres,Millions,Estimated value,18194.0
+3209,Greece,Inland Freight,2008,Tonnes-kilometres,Millions,Estimated value,17746.0
+3210,Greece,Inland Freight,2009,Tonnes-kilometres,Millions,Estimated value,17477.0
+3211,Greece,Inland Freight,2010,Tonnes-kilometres,Millions,Estimated value,20747.0
+3228,Mexico,Inland Freight,2005,Tonnes-kilometres,Millions,Break,258271.0
+3266,France,Maritime Containers (TEU),2021,Number,Units,Provisional value,6283819.0
+3329,Romania,Inland Freight,2004,Tonnes-kilometres,Millions,Break,64500.0
+3334,Romania,Inland Freight,2009,Tonnes-kilometres,Millions,Break,58361.0
+3421,Chile,Coastal Shipping,2017,Tonnes-kilometres,Millions,Estimated value,10005.0
+3422,Chile,Coastal Shipping,2018,Tonnes-kilometres,Millions,Estimated value,13658.0
+3423,Chile,Coastal Shipping,2019,Tonnes-kilometres,Millions,Estimated value,12442.0
+3424,Chile,Coastal Shipping,2020,Tonnes-kilometres,Millions,Estimated value,9009.8772842607
+3425,Chile,Rail Containers (TEU),2020,Number,Units,Provisional value,76030.0
