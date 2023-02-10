@@ -1,0 +1,16 @@
+Scaling data
+
+from sklearn.preprocessing import MinMaxScaler 
+
+x_train_num = x_train.select_dtypes(include=np.number)
+x_test_num = x_test.select_dtypes(include=np.number)
+
+#Scaling data
+
+transformer = MinMaxScaler().fit(x_train_num)
+
+x_train_normalized = transformer.transform(x_train_num)
+x_test_normalized = transformer.transform(x_test_num)
+
+x_train_norm = pd.DataFrame(x_train_normalized, columns=x_train_num.columns)
+x_test_norm  = pd.DataFrame(x_test_normalized, columns=x_test_num.columns)

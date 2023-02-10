@@ -1,0 +1,12 @@
+Requirements-dev
+
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+os
+sklearn.preprocessing
+sklearn.model_selection
+sklearn.neighbors
+sklearn.linear_model
+sklearn.metricts

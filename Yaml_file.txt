@@ -1,0 +1,11 @@
+Yaml file
+
+data:
+	clean data: '../Data/clean/transport.csv'
+	raw data:  '../Data/raw/Raw_data.csv'
+
+Models:
+	Models: '../Data/raw/Raw_data.csv'
+
+Notebooks:
+	jupyter: '../Notebooks/transport.ipynb'

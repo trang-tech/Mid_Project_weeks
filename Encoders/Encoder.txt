@@ -1,0 +1,13 @@
+Encoder
+
+#Encoder data
+country = transport.select_dtypes(object)[["country"]]
+
+from sklearn.preprocessing import OneHotEncoder
+
+encoder = OneHotEncoder(drop='first')
+encoder.fit(country)
+
+country_enc_np = encoder.transform(country).toarray()
+country_enc    = pd.DataFrame(country_enc_np, columns=encoder.get_feature_names_out())
+country_enc
